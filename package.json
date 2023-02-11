@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "dotenv": "^16.0.3"
+  },
+  "name": "twitch-stream-cli",
+  "version": "1.0.0",
+  "description": "Stream on twitch.tv with this FFMPEG node.js application!",
+  "main": "index.js",
+  "repository": "https://github.com/buddy-codes/twitch-stream-cli.git",
+  "author": "bddy",
+  "private": false,
+  "scripts": {
+    "start": "node .",
+    "config": "node config"
   }
 }
