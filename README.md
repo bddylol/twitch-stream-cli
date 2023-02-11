@@ -8,7 +8,9 @@ Stream on twitch.tv with this FFMPEG node.js application!
 
 ```
 key=STREAM_KEY_GOES_HERE
+TWITCH_NAME=bddy
+FILE=cool.mp4
 ```
-
+- OR run the config command `yarn config` or `npm run config`.
 - Install packages with `npm i` or `yarn`
-- Lastly, run the applicaton like this: `node . <PATH TO VIDEO FILE>`
+- Lastly, run the applicaton like this: `node .`
