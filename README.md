@@ -4,6 +4,8 @@ Stream on twitch.tv with this FFMPEG node.js application!
 
 ## Usage
 
+- Install FFMPEG at `https://ffmpeg.org/download.html` and add it to your PATH.
+
 - Create `.env` file like this:
 
 ```
